@@ -1,0 +1,78 @@
+# Archivo de configuración de Visual Studio
+.vs/
+# Archivos de configuración del usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación de .NET
+bin/
+obj/
+
+# Archivos de paquetes de NuGet
+*.nupkg
+*.snupkg
+*.nuget/
+packages/
+*.dotnet/
+
+# Archivos temporales de ASP.NET Core
+appsettings.json
+appsettings.Production.json
+
+# Archivos de configuración y caché de Rider
+.idea/
+
+# Archivos de logs
+*.log
+
+# Carpetas de dependencias globales
+global-tools/
+
+# Archivos generados por el entorno de desarrollo
+*.dbmdl
+*.bak
+*.swp
+*.tmp
+
+# Carpeta de caché de NuGet
+.nuget/
+
+# Carpetas de configuraciones del IDE
+/.vs/
+/.vscode/
+
+# Archivos de configuración y caché de otros IDEs
+*.launchSettings.json
+*.log
+*.pidb
+*.tlog
+
+# Certificados y claves
+*.pfx
+*.key
+*.cert
+*.pem
+
+# Archivos de propiedades de ensamblado
+*.csproj.user
+*.csproj.webinfo
+
+# Archivos de publicación
+publish/
+
+# Archivos de migraciones de Entity Framework
+Migrations/
+
+# Archivos de cobertura de código
+coverage/
+*.coverage
+
+# Dependencias de JavaScript y TypeScript
+node_modules/
+jspm_packages/
+
+# Archivos generados por herramientas de front-end
+dist/
+build/
